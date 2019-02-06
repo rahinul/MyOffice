@@ -1,0 +1,17 @@
+32D	Solaiman Store	Solaiman	01725-703359		RCC	Vadra
+33D	Das & Sons	Netai Das	01711-802688	DCC (RCC)	Thana Bazzar
+33D	Swopan Store	Swopan		01913-233259		RCC	Thana Bazzar
+33D	Tonu Store	Bijoy		01711-266508	EC&C (RCC)	Thana Bazzar
+33D	Haque Store	Jahurul		01712-134036	EC&C (RCC)	Thana Bazzar
+33D	Prodip Store	Prodip		01716-416041	EC&C (RCC)	Thana Bazzar
+33D	Puja Store	Pijush		01718-282230	EC&C (RCC)	Thana Bazzar
+33D	Bhai Bhai Store	Bodhu		01725-678415		RCC	BUS STAND
+34A	Romoni Store	Robin		01742-819591	EC&C (RCC)	Sonapotti
+34B	Shati Store	Jabbar		01714-524742	EC&C (RCC)	Notun Bazzar
+35B	Mohammad Store	Mohammad	01797-671289		RCC	Saikula Bazzar
+40A	Jontu Store	Keya			N/A		RCC	Mastanbazzar
+40B	Nayon Store	Nayon			N/A		RCC	Shahapur
+41B	Bhai Bhai Store	Bhai Bhai	01711-736389	EC&C (RCC)	Goruri
+41B	Siddik Store	Siddik		01722-189840		RCC	Folzana
+
+
